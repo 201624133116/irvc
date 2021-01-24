@@ -1,0 +1,7 @@
+- project: UFS
+  project_path: /home/sola/Workspaces/Configuration/ufs/env
+  environment_path: /home/sola/Workspaces/Configuration/ufs/env
+
+- project: ADP
+  project_path: adp_project_path
+  environment_path: adp_environment_path
